@@ -8,4 +8,18 @@
 ```shell
 git init
 ```
+Pour voir les dernières modifications
+```shell
+git status
+```
+
+* Pour un ajouter un fichier à un futur commit
+```shell
+git add <fichier>
+```
+* Pour sauvegarder les modifications ajoutées dans un commit
+```shell
+git commit -m <description>
+```
+
 

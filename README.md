@@ -21,5 +21,9 @@ git add <fichier>
 ```shell
 git commit -m <description>
 ```
+* Pour envoyer les commits sur le repo distant
+```shell
+git push
+```
 
 
